@@ -1,0 +1,11 @@
+.actions {
+	display: flex;
+	flex-direction: column;
+	gap: 8px;
+}
+
+.actionsAdd {
+	display: flex;
+	flex-direction: row;
+	gap: 8px;
+}
